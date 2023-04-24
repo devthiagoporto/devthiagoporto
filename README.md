@@ -18,8 +18,6 @@ Olá! 👋 Eu sou Thiago Alvarenga Porto, um desenvolvedor apaixonado por tecnol
 
 📬 Contato: [contato.thiagoporto@gmail.com](mailto:contato.thiagoporto@gmail.com)
 
-📞 WhatsApp: (21) 96974-2882
-
 🔗 Linkedin: [Thiago Porto](https://www.linkedin.com/in/thiago-porto-053886231)
 
 🌍 Idiomas: Fluente em Espanhol, Leitura e Escrita em Inglês
