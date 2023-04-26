@@ -55,4 +55,5 @@ Olá! 👋 Eu sou Thiago Alvarenga Porto, um desenvolvedor apaixonado por tecnol
 - [NutriBOT](https://github.com/devthiagoporto/planonutricional-AI)
 - [Conexão com a API do GPT-3](https://github.com/devthiagoporto/apigpt-py)
 
+![snake gif](https://github.com/devthiagoporto/devthiagoporto/blob/output/github-contribution-grid-snake.svg)
 
